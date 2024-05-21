@@ -13,8 +13,7 @@
 <p align="center">
     <a href="seyedalirafazi80@gmail.com"><img src="https://img.shields.io/badge/email-323540?style=for-the-badge&logo=gmail&logoColor=%2342f5d4&logoSize=auto" alt="Email" style="border-radius:15px"></a>
     <a href="https://www.linkedin.com/in/seyedali-rafazi/"><img src="https://img.shields.io/badge/linkedin-323540?style=for-the-badge&logo=linkedin&logoColor=%2342f5d4&logoSize=auto" style="border-radius:15px" alt="linkedin">
-    <a href="https://www.researchgate.net/profile/Seyedali-Rafazi"><img src="https://img.shields.io/badge/researchgate-323540?style=for-the-badge&logo=researchgate&logoColor=%2342f5d4&logoSize=auto
-    " style="border-radius:15px" alt="researchgate">
+    <a href="https://img.shields.io/badge/researchgate-323540?style=for-the-badge&logo=researchgate&logoColor=%2342f5d4&logoSize=auto" style="border-radius:15px" alt="researchgate">
     <a href="https://www.kaggle.com/alirafazi"><img src="https://img.shields.io/badge/kaggle-323540?style=for-the-badge&logo=kaggle&logoColor=%2342f5d4&logoSize=auto" style="border-radius:15px" alt="researchgate">
 </p>
 
