@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <h4 align="center"><samp>Full-stack Developer</samp></h4>
+    <h4 align="center"><samp>Front-end Developer</samp></h4>
 </div>
 
 <p align="center">
