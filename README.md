@@ -44,7 +44,7 @@
 <br/>
 
 <h1 align="center">
-    Operating System
+    Devops Tools
 </h1>
 
 <p align="center">
