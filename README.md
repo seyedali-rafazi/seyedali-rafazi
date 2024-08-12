@@ -44,7 +44,7 @@
 <br/>
 
 <h1 align="center">
-    Devops Tools
+    DevOps Tools
 </h1>
 
 <p align="center">
